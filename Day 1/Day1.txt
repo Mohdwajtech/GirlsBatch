@@ -1,0 +1,53 @@
+Why Python ?
+
+1. Open Source - You do not need to pay to use python. It is openly
+		available on the web for free
+
+2. Easy - 
+
+3. Platform independent - You can run on any machine.
+			Windows, McOS, Linux and others
+
+4. Huge community support - 
+
+5. For many applications - Web Development, Gaming, Programming,
+			 Data Science, Networking etc
+
+
+Language Learning :
+
+1. Alphabets
+2. Numerics
+3. Symbols
+4. Combine letters and numerics - words
+.
+.
+.
+.
+
+
+Python :
+
+1. Data types
+	
+	a. Integers ( -4, 0, 34, 100, 99, -99 ......)
+	b. Real numbers ( 3.4, -0.1, 5.6, 30.05, ......)
+	c. Strings ('am', 'a', ' ', '2', 'string',......)
+
+
+Let us build a small application. Let us ask the user two numbers to input to the program and ask them what operation they want to do on the numbers. With the input perform the operation and print the result to them.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
